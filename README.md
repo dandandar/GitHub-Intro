@@ -1,2 +1,2 @@
 # GitHub-Intro
-A simple Python program that prints 'Hello, World!
+A simple Python program that prints Hello, World!
